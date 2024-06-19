@@ -19,8 +19,6 @@
   <img align="center" alt="Rapha-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Rapha-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rapha-Bs" height="30" width="40" src="">
-  <img align="center" alt="Rapha-Bs" height="30" width="40" src="">
 </div>
 
 ##

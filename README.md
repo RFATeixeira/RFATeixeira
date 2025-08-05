@@ -1,7 +1,7 @@
 ## Olá, me chamo Raphael Teixeira 👋
 
 - 🔭 Hoje trabalho na área da segurança pública
-- 🌱 Cursando Sistemas de Informação e Estudando TailWindCSS
+- 🌱 Cursando Sistemas de Informação
 - 😄 Pronouns: ele/dele
 
 <div>
